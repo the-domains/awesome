@@ -1,0 +1,23 @@
+name: awesome
+favicon: null
+layout_spectrum: 0.6386317014694214
+typography_spectrum: 0.6184887303970754
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4088167240843177
+  lightness: 0.7528653817716986
+  saturation: 0.2540882390458137
+  rhythmicContrast: 0.8891247899737209
+purpose: []
